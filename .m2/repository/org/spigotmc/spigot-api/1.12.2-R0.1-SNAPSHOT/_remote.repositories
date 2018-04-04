@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 14:09:36 UTC 2018
+spigot-api-1.12.2-R0.1-SNAPSHOT.pom>=
+spigot-api-1.12.2-R0.1-SNAPSHOT-shaded.jar>=
+spigot-api-1.12.2-R0.1-SNAPSHOT.jar>=

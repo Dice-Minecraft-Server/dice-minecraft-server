@@ -1,0 +1,30 @@
+[13:34:07] [User Authenticator #4/INFO]: UUID of player TwJustdoit is c5db0373-21bb-377d-81af-e26e6910cc12
+[13:34:07] [Server thread/INFO]: TwJustdoit[/111.241.90.30:8677] logged in with entity id 3195 at ([world]65.5, 64.0, 264.5)
+[13:35:45] [Server thread/INFO]: TwJustdoit lost connection: Disconnected
+[13:35:45] [Server thread/INFO]: TwJustdoit left the game
+[14:10:54] [User Authenticator #5/INFO]: UUID of player TwJustdoit is c5db0373-21bb-377d-81af-e26e6910cc12
+[14:10:55] [Server thread/INFO]: TwJustdoit[/36.228.40.149:8759] logged in with entity id 3566 at ([world]66.60468649609291, 63.0, 268.9150934144902)
+[14:14:44] [Server thread/INFO]: TwJustdoit issued server command: /list
+[14:14:47] [Server thread/INFO]: TwJustdoit issued server command: /help
+[14:14:47] [Server thread/INFO]: TwJustdoit issued server command: /
+[14:14:51] [Async Chat Thread - #0/INFO]: <TwJustdoit> ? list[m
+[14:14:55] [Server thread/INFO]: TwJustdoit issued server command: /? list
+[14:15:03] [Server thread/INFO]: TwJustdoit issued server command: /list
+[14:15:12] [Server thread/INFO]: TwJustdoit issued server command: /help
+[14:15:13] [Server thread/INFO]: TwJustdoit issued server command: /me
+[14:15:15] [Server thread/INFO]: TwJustdoit issued server command: /me do
+[14:15:15] [Server thread/INFO]: * TwJustdoit do
+[14:15:23] [Server thread/INFO]: TwJustdoit issued server command: /plugins
+[14:15:28] [Server thread/INFO]: TwJustdoit issued server command: /help 2
+[14:15:31] [Server thread/INFO]: TwJustdoit issued server command: /trigger
+[14:15:41] [Server thread/INFO]: TwJustdoit issued server command: /trigger twjustdoit set 123
+[14:15:41] [Server thread/INFO]: [TwJustdoit: Invalid trigger name twjustdoit]
+[14:15:46] [Server thread/INFO]: TwJustdoit issued server command: /trigger twj set 123
+[14:15:46] [Server thread/INFO]: [TwJustdoit: Invalid trigger name twj]
+[14:15:56] [Server thread/INFO]: TwJustdoit issued server command: /minecraft:me
+[14:16:47] [Server thread/INFO]: TwJustdoit lost connection: Disconnected
+[14:16:47] [Server thread/INFO]: TwJustdoit left the game
+[14:24:23] [User Authenticator #6/INFO]: UUID of player TwJustdoit is c5db0373-21bb-377d-81af-e26e6910cc12
+[14:24:23] [Server thread/INFO]: TwJustdoit[/36.228.40.149:8782] logged in with entity id 3967 at ([world]64.86182609461599, 68.0, 304.46854883342525)
+[14:42:20] [Server thread/INFO]: TwJustdoit lost connection: Disconnected
+[14:42:20] [Server thread/INFO]: TwJustdoit left the game
