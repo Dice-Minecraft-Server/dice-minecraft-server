@@ -1,0 +1,9 @@
+#local dir
+.ssh
+.nano
+.local
+.cache
+.m2
+#local file
+.bash*
+.profile
