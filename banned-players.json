@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "ba7e22f2-b842-494a-86ba-35c055492452",
+    "name": "TwJustdoit",
+    "created": "2018-05-10 11:03:15 +0800",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
